@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Landscape",
+    "description": "",
+    "home_page_url": "https://davy39.github.io/davy39.github.io",
+    "feed_url": "https://davy39.github.io/davy39.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Min"
+    },
+    "items": [
+    ]
+}
